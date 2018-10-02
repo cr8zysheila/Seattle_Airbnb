@@ -21,7 +21,7 @@ First let's look at the vacancy rates for the neighborhoods. The median vacancy 
 ![Table2](T2_bot5.png "Table2")
 
 It is obvious that none of the top 5 most rented neighborhoods has a large number of rental listings. So these neighborhoods may not be the most popular neighborhoods; they have a much lower vacancy rate simply because the supply is too low compared to the demand. The popular neighborhoods would almost certainly have
-a big number of rental listings. Table 3 below shows the top 5 neighborhoods with the most rental listings and their median vacancy rates. One neighborhood that stands out is Belltown. With more than 200 listings in this neighborhood, it still has a vacancy rate of 62.7%, much lower than the median of all neighborhoods.
+a big number of rental listings. Table 3 below shows the top 10 neighborhoods with the most rental listings and their median vacancy rates. One neighborhood that stands out is Belltown. With more than 200 listings in this neighborhood, it still has a vacancy rate of 62.7%, much lower than the median of all neighborhoods.
 
 ![Table3](T3_count10.png "Table3")
 
