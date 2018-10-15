@@ -15,13 +15,12 @@ Airbnb published a dataset for Seattle Airbnb rentals listed from 2016-01-04 to 
 
 
 ## 2. Vacancy Rate by Neighborhoods
-First let's look at the vacancy rates for the neighborhoods. The median vacancy rate for the 74 neighborhoods involved in our analysis is 84.9%, which means the property is not rented 84.5% time of a year. It is much higher than most owners' expectation. In the followings, Table 1 shows the top 5 most rented neighborhoods and Table 2 shows the top 5 worst rented neighborhoods, according to the median vacancy rate of the neighborhoods.
+First let's look at the vacancy rates for the neighborhoods. The median vacancy rate of all Seattle Airbnb properties used in our analysis is 84.4%, which means the property is not rented 84.4% time of a year. It is much higher than most owners' expectation. In the followings, Table 1 shows the top 5 most rented neighborhoods and Table 2 shows the top 5 worst rented neighborhoods, according to the median vacancy rate of the neighborhoods.
 
 ![Table1](T1_top5.png "Table1")
 ![Table2](T2_bot5.png "Table2")
 
-It is obvious that none of the top 5 most rented neighborhoods has a large number of rental listings. So these neighborhoods may not be the most popular neighborhoods; they have a much lower vacancy rate simply because the supply is too low compared to the demand. The popular neighborhoods would almost certainly have
-a big number of rental listings. Table 3 below shows the top 10 neighborhoods with the most rental listings and their median vacancy rates. One neighborhood that stands out is Belltown. With more than 200 listings in this neighborhood, it still has a vacancy rate of 62.7%, much lower than the median of all neighborhoods.
+Table 3 below shows the top 10 neighborhoods with the most rental listings and their median vacancy rates. From these tables we can see that the neighborhood of Cascade is the most promising one. With only 47.7% vacancy rate, the properties in this neighborhood perform much better than the median. There are only 85 listings in this neighborhood, much lower than most other neighborhoods, which means the market in this neighborhood is far from saturated and less competitive.
 
 ![Table3](T3_count10.png "Table3")
 
@@ -44,4 +43,4 @@ When it comes to setting the minimum nights of stay for your rental property, it
 ![Figure3](F3_min.png "Figure3")
 
 ## 6. Conclusions
-A deep look at the Seattle Airbnb dataset has given us some answers to our questions regarding vacancy rate. If you want to buy a property in Seattle for your Airbnb business, you can either choose the less popular but with high demand neighborhoods like Broadway and North Beach etc., or you can choose a popular but not yet saturated neighborhood like Belltown. You may want to consider condo or townhouse first, since they have much lower vacancy rate. Renting out the entire property also help lower vacancy rate. As to Cancellation Policy, just choose whatever makes you comfortable. At last, when setting the minimum nights of stay, try making it longer if it's shorter than 6 nights.  
+A deep look at the Seattle Airbnb dataset has given us some answers to our questions regarding vacancy rate. If you want to buy a property in Seattle for your Airbnb business, the Cascade area is your best bet. You may want to consider condo or townhouse first, since they have much lower vacancy rate. Renting out the entire property also help lower vacancy rate. As to Cancellation Policy, just choose whatever makes you comfortable. At last, when setting the minimum nights of stay, try making it longer if it's shorter than 6 nights.  
